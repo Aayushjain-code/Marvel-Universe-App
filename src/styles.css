@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Courgette&display=swap");
+
+.App {
+  font-family: open-sans;
+  text-align: center;
+}
+body {
+  margin: 0;
+  background: #dbc025;
+}
+.heading {
+  text-align: center;
+  list-style-type: none;
+  padding: 1px 20px 20px 50px;
+  background: black;
+  color: rgb(241, 209, 24);
+  margin: 0;
+}
+.heading div {
+  text-align: center;
+}
+.heading li {
+  padding: 20px;
+  cursor: pointer;
+  font-size: 18px;
+  display: inline;
+}
+.booksHead {
+  letter-spacing: 1px;
+  /* padding:20px 0 0 0; */
+  font-family: "Balsamiq Sans", cursive;
+}
+.detailed {
+  font-family: "helveticaNeue";
+  font-size: larger;
+  /* padding:20px 300px; */
+  /* width:50%; */
+}
+img {
+  padding: 30px 0 30px 0;
+  height: 300px;
+  /* border-radius:50%; */
+}
+
+.rating {
+  margin: 20px 0 0 0;
+}
